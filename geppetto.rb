@@ -3,7 +3,7 @@ require 'uri'
 require 'action_view'
 
 include ActionView::Helpers::SanitizeHelper
-puts "Hi, I'm Brainbot. Pleased to conquer you."
+puts "Hi, I'm Brainbot. Pleased to conquer you. Type exit at any time to leave the chat."
 x = ""
 while x != "exit\n"
   prompt = gets
