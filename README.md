@@ -5,3 +5,8 @@ Geppetto is a Ruby command line application that uses the BotLibre API to allow 
 Web-etto is a tiny web application that provides the same functionality through a text box rather than the terminal
 
 - Ruby version: `3.2.1`
+
+## Usage 
+``` ruby geppetto.rb ```
+or
+``` ruby web-etto.rb ```
