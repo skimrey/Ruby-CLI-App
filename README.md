@@ -8,5 +8,7 @@ Web-etto is a tiny web application that provides the same functionality through 
 
 ## Usage 
 ``` ruby geppetto.rb ```
+
 or
+
 ``` ruby web-etto.rb ```
