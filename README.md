@@ -7,8 +7,13 @@ Web-etto is a tiny web application that provides the same functionality through 
 - Ruby version: `3.2.1`
 
 ## Usage 
+
 ``` ruby geppetto.rb ```
 
 or
 
 ``` ruby web-etto.rb ```
+
+Testing your connection:
+``` ruby tests/tests.rb ```
+If the API link is incorrect, it will be flagged

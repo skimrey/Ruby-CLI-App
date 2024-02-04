@@ -7,4 +7,4 @@ gem "awesome_print"
 gem "pry-byebug"
 gem "node-runner"
 gem "actionview"
-gem "tk"
+

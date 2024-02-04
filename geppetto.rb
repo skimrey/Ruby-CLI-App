@@ -41,8 +41,11 @@ class BrainBot
     plain_text_response = plain_text_response.gsub("Brain Bot: ", '')
 
     puts "#{plain_text_response}"
+    return plain_text_response
   end
 end
 
-brain_bot = BrainBot.new
-brain_bot.start_chat
+if __FILE__ == $0
+  brain_bot = BrainBot.new
+  brain_bot.start_chat
+end
